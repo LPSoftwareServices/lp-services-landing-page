@@ -9,13 +9,13 @@ const Header = () => {
   return (
     <header className="w-full bg-white/95 backdrop-blur-sm border-b border-gray-200 sticky top-0 z-50">
       <div className="container mx-auto px-4 lg:px-8">
-        <div className="flex items-center justify-between h-12 lg:h-16">
+        <div className="flex items-center justify-between h-16 lg:h-16">
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img 
               src="/lovable-uploads/4fbaa8f6-998f-4765-8051-3f0d2a906f52.png" 
               alt="LP Software Services" 
-              className="h-20 w-auto"
+              className="h-30 w-auto"
             />
           </div>
 
