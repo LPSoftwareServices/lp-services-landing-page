@@ -11,7 +11,7 @@ const Footer = () => {
             <img 
               src="/lovable-uploads/b4c1710e-31c8-4ff0-bfde-c69a74b2380f.png" 
               alt="LP Software Services" 
-              className="h-12 w-auto mb-6"
+              className="h-16 w-auto mb-6"
             />
             <p className="text-purple-200 mb-6 leading-relaxed">
               LP Software Services provides elite software consulting, SAP solutions, 
